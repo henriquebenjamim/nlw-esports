@@ -13,6 +13,7 @@ CDN (Content Delivery Network)
 ### Ad
 id
 gameId
+name
 yearsPlaying
 discord
 weekDays
